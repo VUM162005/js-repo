@@ -1,1 +1,1 @@
-console.log("Hello Vedant to JS")
+console.log("Hello Vedant to JS");
